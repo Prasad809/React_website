@@ -1,0 +1,109 @@
+{
+    "indianTouristPlaces" : [
+        {
+          "id": 1,
+          "name": "Taj Mahal",
+          "location": "Agra, Uttar Pradesh",
+          "description": "Iconic white marble mausoleum",
+          "visitors": 8000000
+        },
+        {
+          "id": 2,
+          "name": "Red Fort",
+          "location": "New Delhi",
+          "description": "Historic Mughal fort",
+          "visitors": 2000000
+        },
+        {
+          "id": 3,
+          "name": "Qutub Minar",
+          "location": "New Delhi",
+          "description": "Tallest minaret in India",
+          "visitors": 1000000
+        },
+        {
+          "id": 4,
+          "name": "Golden Temple",
+          "location": "Amritsar, Punjab",
+          "description": "Sacred Sikh gurudwara",
+          "visitors": 5000000
+        },
+        {
+          "id": 5,
+          "name": "Varanasi Ghats",
+          "location": "Varanasi, Uttar Pradesh",
+          "description": "Sacred Hindu riverfront",
+          "visitors": 3000000
+        },
+        {
+          "id": 6,
+          "name": "Jaipur City Palace",
+          "location": "Jaipur, Rajasthan",
+          "description": "Royal palace complex",
+          "visitors": 2000000
+        },
+        {
+          "id": 7,
+          "name": "Goa Beaches",
+          "location": "Goa",
+          "description": "Stunning coastal beaches",
+          "visitors": 4000000
+        },
+        {
+          "id": 8,
+          "name": "Kerala Backwaters",
+          "location": "Kerala",
+          "description": "Scenic waterways and lakes",
+          "visitors": 1000000
+        },
+        {
+          "id": 9,
+          "name": "Agra Fort",
+          "location": "Agra, Uttar Pradesh",
+          "description": "Mughal fort and palace",
+          "visitors": 1500000
+        },
+        {
+          "id": 10,
+          "name": "Jaisalmer Fort",
+          "location": "Jaisalmer, Rajasthan",
+          "description": "Desert fortress",
+          "visitors": 500000
+        },
+        {
+          "id": 11,
+          "name": "Meenakshi Temple",
+          "location": "Madurai, Tamil Nadu",
+          "description": "Colorful Hindu temple",
+          "visitors": 1000000
+        },
+        {
+          "id": 12,
+          "name": "Hampi Ruins",
+          "location": "Hampi, Karnataka",
+          "description": "Ancient Vijayanagara ruins",
+          "visitors": 500000
+        },
+        {
+          "id": 13,
+          "name": "Darjeeling Himalayan Railway",
+          "location": "Darjeeling, West Bengal",
+          "description": "Scenic mountain railway",
+          "visitors": 200000
+        },
+        {
+          "id": 14,
+          "name": "Periyar Wildlife Sanctuary",
+          "location": "Kerala",
+          "description": "Protected elephant reserve",
+          "visitors": 200000
+        },
+        {
+          "id": 15,
+          "name": "Bodh Gaya",
+          "location": "Bodh Gaya, Bihar",
+          "description": "Sacred Buddhist site",
+          "visitors": 500000
+        }
+      ]
+}

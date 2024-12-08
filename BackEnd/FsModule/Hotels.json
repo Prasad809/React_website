@@ -1,0 +1,185 @@
+{
+    "indianTouristPlacesWithHotels": [
+      {
+        "id": 1,
+        "name": "Taj Mahal",
+        "location": "Agra, Uttar Pradesh",
+        "description": "Iconic white marble mausoleum",
+        "visitors": 8000000,
+        "hotels": [
+          { "name": "The Oberoi Amarvilas", "rating": 5, "address": "Taj East Gate Road, Agra", "priceRange": "₹12,000 - ₹30,000" },
+          { "name": "ITC Mughal", "rating": 5, "address": "Taj Ganj, Agra", "priceRange": "₹8,000 - ₹20,000" },
+          { "name": "Trident Agra", "rating": 4, "address": "Taj East Gate Road, Agra", "priceRange": "₹6,000 - ₹15,000" }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Red Fort",
+        "location": "New Delhi",
+        "description": "Historic Mughal fort",
+        "visitors": 2000000,
+        "hotels": [
+          { "name": "The Imperial", "rating": 5, "address": "Janpath Lane, Connaught Place, New Delhi", "priceRange": "₹15,000 - ₹40,000" },
+          { "name": "The Leela Palace", "rating": 5, "address": "Diplomatic Enclave, New Delhi", "priceRange": "₹18,000 - ₹45,000" },
+          { "name": "Taj Mahal Hotel", "rating": 5, "address": "Man Singh Road, New Delhi", "priceRange": "₹12,000 - ₹25,000" }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Qutub Minar",
+        "location": "New Delhi",
+        "description": "Tallest minaret in India",
+        "visitors": 1000000,
+        "hotels": [
+          { "name": "Radisson Blu Plaza Delhi Airport", "rating": 5, "address": "National Highway 8, New Delhi", "priceRange": "₹10,000 - ₹25,000" },
+          { "name": "Shangri-La's - Eros Hotel", "rating": 5, "address": "Ashoka Road, New Delhi", "priceRange": "₹8,000 - ₹20,000" },
+          { "name": "The Park New Delhi", "rating": 4, "address": "Outer Circle, Connaught Place, New Delhi", "priceRange": "₹5,000 - ₹15,000" }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Golden Temple",
+        "location": "Amritsar, Punjab",
+        "description": "Sacred Sikh gurudwara",
+        "visitors": 5000000,
+        "hotels": [
+          { "name": "Taj Swarna", "rating": 5, "address": "Near Golden Temple, Amritsar", "priceRange": "₹8,000 - ₹20,000" },
+          { "name": "Holiday Inn Amritsar", "rating": 4, "address": "Near Golden Temple, Amritsar", "priceRange": "₹6,000 - ₹15,000" },
+          { "name": "Radisson Blu Hotel", "rating": 4, "address": "Queens Road, Amritsar", "priceRange": "₹7,000 - ₹18,000" }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Varanasi Ghats",
+        "location": "Varanasi, Uttar Pradesh",
+        "description": "Sacred Hindu riverfront",
+        "visitors": 3000000,
+        "hotels": [
+          { "name": "The Gateway Hotel Ganges Varanasi", "rating": 5, "address": "Nadesar Palace, Varanasi", "priceRange": "₹6,000 - ₹18,000" },
+          { "name": "Radisson Hotel Varanasi", "rating": 5, "address": "The Mall Road, Varanasi", "priceRange": "₹5,000 - ₹15,000" },
+          { "name": "Shree Krishna Palace", "rating": 3, "address": "Rathyatra, Varanasi", "priceRange": "₹2,000 - ₹6,000" }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Jaipur City Palace",
+        "location": "Jaipur, Rajasthan",
+        "description": "Royal palace complex",
+        "visitors": 2000000,
+        "hotels": [
+          { "name": "Rambagh Palace", "rating": 5, "address": "Bhawani Singh Road, Jaipur", "priceRange": "₹25,000 - ₹50,000" },
+          { "name": "The Oberoi Rajvilas", "rating": 5, "address": "Amer Road, Jaipur", "priceRange": "₹20,000 - ₹60,000" },
+          { "name": "Holiday Inn Jaipur City Centre", "rating": 4, "address": "Sardar Patel Road, Jaipur", "priceRange": "₹4,000 - ₹10,000" }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Goa Beaches",
+        "location": "Goa",
+        "description": "Stunning coastal beaches",
+        "visitors": 4000000,
+        "hotels": [
+          { "name": "Taj Exotica Resort & Spa", "rating": 5, "address": "Benaulim, Goa", "priceRange": "₹15,000 - ₹40,000" },
+          { "name": "The Leela Goa", "rating": 5, "address": "Cavelossim Beach, Goa", "priceRange": "₹20,000 - ₹50,000" },
+          { "name": "Goa Marriott Resort & Spa", "rating": 4, "address": "Miramar Beach, Goa", "priceRange": "₹8,000 - ₹20,000" }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Kerala Backwaters",
+        "location": "Kerala",
+        "description": "Scenic waterways and lakes",
+        "visitors": 1000000,
+        "hotels": [
+          { "name": "The Leela Kovalam", "rating": 5, "address": "Kovalam, Kerala", "priceRange": "₹12,000 - ₹30,000" },
+          { "name": "Kumarakom Lake Resort", "rating": 5, "address": "Kumarakom, Kerala", "priceRange": "₹10,000 - ₹25,000" },
+          { "name": "Taj Vivanta Bekal", "rating": 5, "address": "Bekal, Kerala", "priceRange": "₹15,000 - ₹35,000" }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Agra Fort",
+        "location": "Agra, Uttar Pradesh",
+        "description": "Mughal fort and palace",
+        "visitors": 1500000,
+        "hotels": [
+          { "name": "The Oberoi Amarvilas", "rating": 5, "address": "Taj East Gate Road, Agra", "priceRange": "₹12,000 - ₹30,000" },
+          { "name": "ITC Mughal", "rating": 5, "address": "Taj Ganj, Agra", "priceRange": "₹8,000 - ₹20,000" },
+          { "name": "Trident Agra", "rating": 4, "address": "Taj East Gate Road, Agra", "priceRange": "₹6,000 - ₹15,000" }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Jaisalmer Fort",
+        "location": "Jaisalmer, Rajasthan",
+        "description": "Desert fortress",
+        "visitors": 500000,
+        "hotels": [
+          { "name": "Suryagarh", "rating": 5, "address": "Khadak, Jaisalmer", "priceRange": "₹15,000 - ₹40,000" },
+          { "name": "The Gulaal", "rating": 4, "address": "Naya Bazar, Jaisalmer", "priceRange": "₹8,000 - ₹20,000" },
+          { "name": "Jaisalmer Marriott Resort & Spa", "rating": 4, "address": "Jaisalmer Fort Road, Jaisalmer", "priceRange": "₹7,000 - ₹18,000" }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Meenakshi Temple",
+        "location": "Madurai, Tamil Nadu",
+        "description": "Colorful Hindu temple",
+        "visitors": 1000000,
+        "hotels": [
+          { "name": "The Gateway Hotel Pasumalai", "rating": 5, "address": "Pasumalai, Madurai", "priceRange": "₹4,000 - ₹12,000" },
+          { "name": "Heritage Madurai", "rating": 4, "address": "Madurai, Tamil Nadu", "priceRange": "₹5,000 - ₹15,000" },
+          { "name": "Radisson Blu Hotel", "rating": 4, "address": "Madurai, Tamil Nadu", "priceRange": "₹5,000 - ₹12,000" }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Hampi Ruins",
+        "location": "Hampi, Karnataka",
+        "description": "Ancient Vijayanagara ruins",
+        "visitors": 500000,
+        "hotels": [
+          { "name": "Eagle Ridge Resort", "rating": 4, "address": "Hampi, Karnataka", "priceRange": "₹3,000 - ₹8,000" },
+          { "name": "Vijayshree Resort & Heritage Village", "rating": 4, "address": "Hampi, Karnataka", "priceRange": "₹4,000 - ₹10,000" },
+          { "name": "Hampi Boulders", "rating": 3, "address": "Hampi, Karnataka", "priceRange": "₹2,500 - ₹7,000" }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Darjeeling Himalayan Railway",
+        "location": "Darjeeling, West Bengal",
+        "description": "Scenic mountain railway",
+        "visitors": 200000,
+        "hotels": [
+          { "name": "Mayfair Darjeeling", "rating": 5, "address": "The Mall, Darjeeling", "priceRange": "₹8,000 - ₹20,000" },
+          { "name": "Windamere Hotel", "rating": 4, "address": "Observatory Hill, Darjeeling", "priceRange": "₹6,000 - ₹15,000" },
+          { "name": "Hotel Himalaya", "rating": 3, "address": "Chauk Bazaar, Darjeeling", "priceRange": "₹3,000 - ₹8,000" }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Periyar Wildlife Sanctuary",
+        "location": "Kerala",
+        "description": "Protected elephant reserve",
+        "visitors": 200000,
+        "hotels": [
+          { "name": "Thekkady Wild Corridor", "rating": 5, "address": "Periyar, Thekkady, Kerala", "priceRange": "₹6,000 - ₹15,000" },
+          { "name": "Spice Village", "rating": 4, "address": "Periyar Tiger Reserve, Thekkady", "priceRange": "₹4,000 - ₹10,000" },
+          { "name": "Taj Garden Retreat", "rating": 4, "address": "Thekkady, Kerala", "priceRange": "₹6,000 - ₹18,000" }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Bodh Gaya",
+        "location": "Bodh Gaya, Bihar",
+        "description": "Sacred Buddhist site",
+        "visitors": 500000,
+        "hotels": [
+          { "name": "Bodhgaya Regency Hotel", "rating": 4, "address": "Bodh Gaya, Bihar", "priceRange": "₹3,000 - ₹8,000" },
+          { "name": "Hotel Maya Heritage", "rating": 3, "address": "Bodh Gaya, Bihar", "priceRange": "₹2,000 - ₹6,000" },
+          { "name": "The Royal Residency", "rating": 4, "address": "Bodh Gaya, Bihar", "priceRange": "₹4,000 - ₹10,000" }
+        ]
+      }
+    ]
+  }
+  

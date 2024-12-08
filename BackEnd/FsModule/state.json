@@ -1,0 +1,208 @@
+{
+  "stateInfo": [
+    {
+        "id": 1,
+        "name": "Andhra Pradesh",
+        "capital": "Amaravati",
+        "population": 49577103
+    },
+    {
+        "id": 2,
+        "name": "Arunachal Pradesh",
+        "capital": "Itanagar",
+        "population": 1382611
+    },
+    {
+        "id": 3,
+        "name": "Assam",
+        "capital": "Dispur",
+        "population": 31169272
+    },
+    {
+        "id": 4,
+        "name": "Bihar",
+        "capital": "Patna",
+        "population": 104099452
+    },
+    {
+        "id": 5,
+        "name": "Chhattisgarh",
+        "capital": "Raipur",
+        "population": 25545198
+    },
+    {
+        "id": 6,
+        "name": "Goa",
+        "capital": "Panaji",
+        "population": 1458545
+    },
+    {
+        "id": 7,
+        "name": "Gujarat",
+        "capital": "Gandhinagar",
+        "population": 60439692
+    },
+    {
+        "id": 8,
+        "name": "Haryana",
+        "capital": "Chandigarh",
+        "population": 25353100
+    },
+    {
+        "id": 9,
+        "name": "Himachal Pradesh",
+        "capital": "Shimla",
+        "population": 6864602
+    },
+    {
+        "id": 10,
+        "name": "Jharkhand",
+        "capital": "Ranchi",
+        "population": 32988134
+    },
+    {
+        "id": 11,
+        "name": "Karnataka",
+        "capital": "Bangalore",
+        "population": 61095297
+    },
+    {
+        "id": 12,
+        "name": "Kerala",
+        "capital": "Thiruvananthapuram",
+        "population": 33406061
+    },
+    {
+        "id": 13,
+        "name": "Madhya Pradesh",
+        "capital": "Bhopal",
+        "population": 72626809
+    },
+    {
+        "id": 14,
+        "name": "Maharashtra",
+        "capital": "Mumbai",
+        "population": 112374333
+    },
+    {
+        "id": 15,
+        "name": "Manipur",
+        "capital": "Imphal",
+        "population": 2855794
+    },
+    {
+        "id": 16,
+        "name": "Meghalaya",
+        "capital": "Shillong",
+        "population": 2966889
+    },
+    {
+        "id": 17,
+        "name": "Mizoram",
+        "capital": "Aizawl",
+        "population": 1097206
+    },
+    {
+        "id": 18,
+        "name": "Nagaland",
+        "capital": "Kohima",
+        "population": 1980602
+    },
+    {
+        "id": 19,
+        "name": "Odisha",
+        "capital": "Bhubaneswar",
+        "population": 41974218
+    },
+    {
+        "id": 20,
+        "name": "Punjab",
+        "capital": "Chandigarh",
+        "population": 27704236
+    },
+    {
+        "id": 21,
+        "name": "Rajasthan",
+        "capital": "Jaipur",
+        "population": 68548437
+    },
+    {
+        "id": 22,
+        "name": "Sikkim",
+        "capital": "Gangtok",
+        "population": 610577
+    },
+    {
+        "id": 23,
+        "name": "Tamil Nadu",
+        "capital": "Chennai",
+        "population": 72147030
+    },
+    {
+        "id": 24,
+        "name": "Telangana",
+        "capital": "Hyderabad",
+        "population": 35003674
+    },
+    {
+        "id": 25,
+        "name": "Tripura",
+        "capital": "Agartala",
+        "population": 3671038
+    },
+    {
+        "id": 26,
+        "name": "Uttar Pradesh",
+        "capital": "Lucknow",
+        "population": 199812341
+    },
+    {
+        "id": 27,
+        "name": "Uttarakhand",
+        "capital": "Dehradun",
+        "population": 10086292
+    },
+    {
+        "id": 28,
+        "name": "West Bengal",
+        "capital": "Kolkata",
+        "population": 91276115
+    },
+    {
+        "id": 29,
+        "name": "Andaman and Nicobar Islands",
+        "capital": "Port Blair",
+        "population": 379944
+    },
+    {
+        "id": 30,
+        "name": "Chandigarh",
+        "capital": "Chandigarh",
+        "population": 1055450
+    },
+    {
+        "id": 31,
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "capital": "Daman",
+        "population": 243247
+    },
+    {
+        "id": 32,
+        "name": "Lakshadweep",
+        "capital": "Kavaratti",
+        "population": 64473
+    },
+    {
+        "id": 33,
+        "name": "Delhi",
+        "capital": "New Delhi",
+        "population": 16787941
+    },
+    {
+        "id": 34,
+        "name": "Puducherry",
+        "capital": "Puducherry",
+        "population": 1244464
+    }
+]
+}

@@ -1,0 +1,149 @@
+{
+    "holidayPackages": [
+      {
+        "id": 1,
+        "packageName": "Taj Mahal Tour",
+        "destination": "Agra, Uttar Pradesh",
+        "duration": "2 Nights / 3 Days",
+        "price": 8000,
+        "description": "Discover the beauty and history of the Taj Mahal with this immersive tour.",
+        "inclusions": [
+          "Return airfare",
+          "2 nights accommodation",
+          "Breakfast and dinner",
+          "Guided tour of Taj Mahal and Agra Fort"
+        ],
+        "exclusions": [
+          "Lunch",
+          "Personal expenses"
+        ]
+      },
+      {
+        "id": 2,
+        "packageName": "Red Fort & Delhi City Tour",
+        "destination": "New Delhi",
+        "duration": "3 Nights / 4 Days",
+        "price": 10000,
+        "description": "Explore Delhi's rich history with visits to Red Fort, Qutub Minar, and more.",
+        "inclusions": [
+          "Return airfare",
+          "3 nights accommodation",
+          "Breakfast, lunch, and dinner",
+          "Guided city tour of Delhi"
+        ],
+        "exclusions": [
+          "Personal expenses",
+          "Tips and gratuities"
+        ]
+      },
+      {
+        "id": 3,
+        "packageName": "Golden Temple & Amritsar Heritage",
+        "destination": "Amritsar, Punjab",
+        "duration": "2 Nights / 3 Days",
+        "price": 9500,
+        "description": "Visit the sacred Golden Temple and experience the spiritual and cultural heritage of Amritsar.",
+        "inclusions": [
+          "Return airfare",
+          "2 nights accommodation",
+          "Breakfast and dinner",
+          "Visit to Golden Temple and Wagah Border"
+        ],
+        "exclusions": [
+          "Lunch",
+          "Personal expenses"
+        ]
+      },
+      {
+        "id": 4,
+        "packageName": "Varanasi & Ganga River Experience",
+        "destination": "Varanasi, Uttar Pradesh",
+        "duration": "3 Nights / 4 Days",
+        "price": 12000,
+        "description": "Experience the spiritual vibes of Varanasi and the holy Ganga River.",
+        "inclusions": [
+          "Return airfare",
+          "3 nights accommodation",
+          "Breakfast, lunch, and dinner",
+          "Ganga Aarti and boat ride"
+        ],
+        "exclusions": [
+          "Personal expenses",
+          "Tips and gratuities"
+        ]
+      },
+      {
+        "id": 5,
+        "packageName": "Goa Beach & Leisure Escape",
+        "destination": "Goa",
+        "duration": "4 Nights / 5 Days",
+        "price": 15000,
+        "description": "Relax on the beautiful beaches of Goa and enjoy the vibrant nightlife.",
+        "inclusions": [
+          "Return airfare",
+          "4 nights accommodation",
+          "Breakfast and dinner",
+          "Beach activities and sightseeing"
+        ],
+        "exclusions": [
+          "Lunch",
+          "Personal expenses"
+        ]
+      },
+      {
+        "id": 6,
+        "packageName": "Kerala Backwaters & Houseboat",
+        "destination": "Kerala",
+        "duration": "5 Nights / 6 Days",
+        "price": 22000,
+        "description": "Explore Kerala's tranquil backwaters aboard a traditional houseboat.",
+        "inclusions": [
+          "Return airfare",
+          "5 nights accommodation",
+          "Breakfast, lunch, and dinner",
+          "Houseboat cruise through Kerala backwaters"
+        ],
+        "exclusions": [
+          "Personal expenses",
+          "Tips and gratuities"
+        ]
+      },
+      {
+        "id": 7,
+        "packageName": "Rajasthan Desert Safari & Jaisalmer",
+        "destination": "Jaisalmer, Rajasthan",
+        "duration": "4 Nights / 5 Days",
+        "price": 18000,
+        "description": "Experience the desert adventure of Rajasthan with a thrilling safari in Jaisalmer.",
+        "inclusions": [
+          "Return airfare",
+          "4 nights accommodation",
+          "Breakfast and dinner",
+          "Desert safari and camel ride"
+        ],
+        "exclusions": [
+          "Lunch",
+          "Personal expenses"
+        ]
+      },
+      {
+        "id": 8,
+        "packageName": "Jaipur Royal Tour",
+        "destination": "Jaipur, Rajasthan",
+        "duration": "3 Nights / 4 Days",
+        "price": 14000,
+        "description": "Explore the majestic forts and palaces of the Pink City of Jaipur.",
+        "inclusions": [
+          "Return airfare",
+          "3 nights accommodation",
+          "Breakfast and dinner",
+          "Guided city tour of Jaipur including Amer Fort and City Palace"
+        ],
+        "exclusions": [
+          "Lunch",
+          "Personal expenses"
+        ]
+      }
+    ]
+  }
+  
