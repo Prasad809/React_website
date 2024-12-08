@@ -27,4 +27,4 @@ const TripSchema=new mongodb.Schema({
 })
 
 const TripModel =new mongodb.model('trips',TripSchema)
-module.exports=TripModel
+module.exports=TripModel;

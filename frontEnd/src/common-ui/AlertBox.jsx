@@ -27,7 +27,7 @@ export function AlertMsg({errStatus, errClose,severity, errdt, sx}) {
         <Collapse in={open}><Alert onClose={() => {close()}} severity={severity} sx={sx}>
             {msg}
         </Alert></Collapse>
-    );    
+    )    
 
 }
 export default AlertMsg;
