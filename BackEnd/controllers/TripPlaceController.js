@@ -21,7 +21,6 @@ const TripPlaceDetails = async (req, res) => {
         return res.status(200).json({hotelData:tripPlace[0],status:"success"});
 
     } catch (error) {
-        console.error(error);
         return res.status(500).json({ status: "error", message: "Server Problem" });
     }
 };

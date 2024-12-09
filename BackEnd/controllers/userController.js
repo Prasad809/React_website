@@ -2,6 +2,7 @@ const userModel = require('../Model/userModel')
 const bcrypt = require('bcrypt')
 const fs = require('fs').promises;
 const path=require('path')
+const dotEnv=require('dotenv').config();
 const userRegister = async (req, res) => {
     const { userName, email, password } = req.body
     try {
@@ -35,18 +36,20 @@ const userLogin = async (req, res) => {
     }
 }
 
-const filename = path.parse('\\Users\\GOVINDA RAO\\OneDrive\\Desktop\\FULLSTACK\\BackEnd\\FsModule\\state.json');
-const fullPath = path.join(filename.dir, filename.base); 
+
+const fullPath=process.env.npm_config_local_prefix
+const filename=path.join(fullPath,"FsModule","state.json")
+
 const indianStates = async (req, res)=> {
     try {
-        const data = await fs.readFile(fullPath, 'utf8');        
+        const data = await fs.readFile(filename, 'utf8');        
         res.status(200).json(JSON.parse(data));
     } catch (error) {
          res.status(500).json({ message: 'Internal Server Error' });
     }
 }
-const visitName = path.parse('\\Users\\GOVINDA RAO\\OneDrive\\Desktop\\FULLSTACK\\BackEnd\\FsModule\\tourisam.json');
-const FilePath = path.join(visitName.dir, visitName.base); 
+const visitName = process.env.npm_config_local_prefix;
+const FilePath = path.join(visitName,"FsModule","tourisam.json"); 
 const visitingPlaces = async (req, res)=> {
     try {
         const data = await fs.readFile(FilePath, 'utf8');        
@@ -57,4 +60,5 @@ const visitingPlaces = async (req, res)=> {
 }
 
 module.exports = { userRegister, userLogin, indianStates,visitingPlaces }
+
 
