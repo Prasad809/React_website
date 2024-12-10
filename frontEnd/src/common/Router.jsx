@@ -6,19 +6,13 @@ import { Route, Routes, MemoryRouter } from 'react-router-dom'
 import { lazy, Suspense } from 'react';
 import Loader from '../common-ui/Loader';
 
-const delayLoading=(component)=>{
-    return new Promise((resolve)=>{
-        setTimeout(()=>{
-            resolve(component())
-        },1000)
-    })
-}
 
 
-const UserSignIn=lazy(()=>delayLoading(()=>import('../Pages/UserDetails/UserSign')))
-const DashBoard=lazy(()=>delayLoading(()=>import('../Pages/DashBoard/dashBoard')))
-const UserRegisteration=lazy(()=>delayLoading(()=>import('../Pages/UserDetails/UserRegister')))
-const AddTrips=lazy(()=>delayLoading(()=>import('../Pages/Home/AddTrips')))
+
+const UserSignIn=lazy(()=>import('../Pages/UserDetails/UserSign'))
+const DashBoard=lazy(()=>import('../Pages/DashBoard/dashBoard'))
+const UserRegisteration=lazy(()=>import('../Pages/UserDetails/UserRegister'))
+const AddTrips=lazy(()=>import('../Pages/Home/AddTrips'))
 
 function Routers() {
     

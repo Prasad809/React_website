@@ -1,6 +1,6 @@
 function Loader(){
     return(
-        <div style={{marginLeft:"40rem"}}>
+        <div className="loader-container">
             <div className="loader">
             </div>
         </div>
