@@ -8,7 +8,7 @@ import Loader from '../common-ui/Loader';
 const UserSignIn=lazy(()=>import('../Pages/UserDetails/UserSign'))
 const DashBoard=lazy(()=>import('../Pages/DashBoard/dashBoard'))
 const UserRegisteration=lazy(()=>import('../Pages/UserDetails/UserRegister'))
-const AddTrips=lazy(()=>import('../Pages/Home/AddTrips'))
+const AddTrips=lazy(()=>import('../Pages/Home/AddTrips'));
 
 function Routers() {
     
