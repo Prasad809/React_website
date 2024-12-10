@@ -1,8 +1,4 @@
 import { Route, Routes, MemoryRouter } from 'react-router-dom'
-// import UserSignIn from '../Pages/UserDetails/UserSign';
-// import DashBoard from '../Pages/DashBoard/dashBoard';
-// import UserRegisteration from '../Pages/UserDetails/UserRegister';
-// import AddTrips from '../Pages/Home/AddTrips';
 import { lazy, Suspense } from 'react';
 import Loader from '../common-ui/Loader';
 
