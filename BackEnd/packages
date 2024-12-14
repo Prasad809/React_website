@@ -1,0 +1,9 @@
+Packages are used in the forntEnd(Node js,express js,mongodb)
+-------------------------------------------------------------
+
+1)npm i body-parser 
+2)npm i bcrypt
+3)npm i express 
+4)npm i nodemon 
+5)npm i mongoose 
+6)npm i cors
